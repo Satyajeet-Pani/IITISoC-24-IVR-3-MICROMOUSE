@@ -10,4 +10,4 @@ Mentors:
 - [Bhawna Chaudhary](https://github.com/WebWizard104)
 
 Members:
-<br>
+<br> [Khush Paliwal](https://github.com/KhushPaliwal22)
