@@ -11,3 +11,4 @@ Mentors:
 
 Members:
 <br> [Khush Paliwal](https://github.com/KhushPaliwal22)
+<br> [Daksh Chandel](https://github.com/DC-005)
