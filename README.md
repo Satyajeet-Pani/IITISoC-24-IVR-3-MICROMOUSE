@@ -11,3 +11,4 @@ Mentors:
 
 Members:
 <br> [Khush Paliwal](https://github.com/KhushPaliwal22)
+- [Satyajeet Pani](https://github.com/Satyajeet-Pani) 
