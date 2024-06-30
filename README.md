@@ -10,4 +10,7 @@ Mentors:
 - [Bhawna Chaudhary](https://github.com/WebWizard104)
 
 Members:
-<br> [Khush Paliwal](https://github.com/KhushPaliwal22)
+<br>
+- [Khush Paliwal](https://github.com/KhushPaliwal22)
+- [Daksh Chandel](https://github.com/DC-005)
+- [Satyajeet Pani](https://github.com/Satyajeet-Pani) 
