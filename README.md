@@ -54,7 +54,43 @@ https://github.com/user-attachments/assets/c8d6f2ea-c621-45a4-bb10-a4c585f78ac6
 ## Hardware:
 Once we were done with selection of an algorithm, our next step was to look out for the best hardware that we could put in our micromouse.
 
+#### Microcontroller:
+The microcontroller is the brain of our mouse. It carries out all the computation, hence we needed a powerful yet compact microcontroller. We compared various microcontrollers on a certain criteria.
+![image](https://github.com/user-attachments/assets/eed1e68c-8b9b-4559-8625-ac841faca6b6)
 
+We finalised STM32F103C8T6 for our micromouse.
+
+#### Sensors:
+Sensors are the eyes of our mouse. They help the mouse detect where the walls are and move in the center of the maze, without colliding into the wall. After much thought, we went with IR sensors and ultrasonic sensors.
+
+#### Motor:
+We needed a high rpm, accurate, and compact motor. A comparison was done keeping in mind these factors.
+![image](https://github.com/user-attachments/assets/f17bd96f-cfc7-4691-a189-92631e54c7dd)
+
+We chose N20 metal gear motors since they are powerful and compact.
+
+#### Motor-Driver:
+We needed a motor driver which is accurate and has a voltage range which can drive our motors.
+![image](https://github.com/user-attachments/assets/bfe7878a-f8fc-40c2-8e50-5fde1acced8e)
+
+After a detailed comparison, we locked our choice on TB6612FNG Dual H-Bridge motor driver.
+
+#### IMU sensor:
+An inertial measurement unit sensor was needed for the bot to know where in the maze it exactly is. Finalised IMU was MPU6050 which is a 6-axis IMU sensor.
+
+#### Power source:
+The power source was required to provide power to all the components sufficiently. We first noted down how much power each component took.
+We checked the voltage requirement
+
+![image](https://github.com/user-attachments/assets/dffa9964-a1d8-4364-9bb3-0e5d90b00a3a)
+
+and the current requirement
+
+![image](https://github.com/user-attachments/assets/c18767b3-6159-4c85-a0cb-0e1ef537b71b)
+
+After comparing different power sources, we chose two 3.7V lithium ion cell.
+
+[![image](https://github.com/user-attachments/assets/2cbe90ad-7e32-4861-8324-9c65160a946d)](https://amzn.in/d/0if9jwKN)
 
 
 
